@@ -14,11 +14,16 @@ Google Play has an outdated version. Install the updated one from F-Droid:
 
 [download it from hare](https://f-droid.org/repo/com.termux_1022.apk)
 
+[download kiwi browser](https://github.com/kiwibrowser/src.next/releases/download/14310011181/com.kiwibrowser.browser-arm64-14310011181-github.apk)
+
+
 ---
 
 ## 2. Update & Upgrade Package List
 
 After opening Termux, run:
+
+
 
 ```sh
 pkg update -y
